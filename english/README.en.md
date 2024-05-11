@@ -16,7 +16,7 @@
   </a>
 </p>
 
-#### Trocar para português: <kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](../README.md)</kbd>
+#### Trocar para português: <kbd>[<img title="Portuguese" alt="Portuguese" src="./../img/BrazilFlag.png" width="22">](../README.md)</kbd>
 
 ## ROADMAP
 
